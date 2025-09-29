@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="28.2.3">
   <diagram id="FZmaDcgwMKFvUvN4vvBs" name="第 1 页">
-    <mxGraphModel dx="2674" dy="1476" grid="0" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3005" dy="2776" grid="0" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,10 +14,10 @@
           <mxGeometry x="1020" y="397" width="631.05" height="310.67" as="geometry" />
         </mxCell>
         <mxCell id="dMjcWK_FVsZsTcLQjEYo-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="223" y="10" width="1550" height="60" as="geometry" />
+          <mxGeometry x="258.44" y="-1246" width="1550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dMjcWK_FVsZsTcLQjEYo-9" value="一、Linux概述" style="text;strokeColor=none;fillColor=none;html=1;fontSize=40;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="213" y="-60" width="370" height="40" as="geometry" />
+          <mxGeometry x="248.44" y="-1316" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7TZV16wr1buTp1age2ji-3" value="&lt;h2 style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); margin: 0px; line-height: 1.75rem; color: rgb(38, 38, 38);&quot; class=&quot;text-xl font-semibold text-neutral-800&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;如何查看某个端口&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;有没有被占用？&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=#b85450;fillColor=#f8cecc;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="-24" y="2868" width="274.44" height="117" as="geometry" />
@@ -97,56 +97,62 @@
         <mxCell id="7TZV16wr1buTp1age2ji-37" value="卡码笔记：https://notes.kamacoder.com" style="text;strokeColor=none;fillColor=none;html=1;fontSize=30;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=0;dashed=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="1795.44" y="3356" width="598" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-1" value="如何查看某个端口有没有被占用？" style="text;strokeColor=#36393d;fillColor=#eeeeee;html=1;fontSize=40;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;dashed=1;dashPattern=1 4;strokeWidth=2;glass=0;shadow=1;rounded=1;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-1" value="如何查看某个端口有没有被占用？" style="text;strokeColor=#36393d;fillColor=#eeeeee;html=1;fontSize=40;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;dashed=1;dashPattern=1 4;strokeWidth=2;glass=0;shadow=1;rounded=1;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="845.5900000000001" y="2226" width="816.22" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-2" value="" style="line;strokeWidth=5;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-2" value="" style="line;strokeWidth=5;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;" parent="1" vertex="1">
           <mxGeometry x="-422.56" y="2164" width="3485.63" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-3" value="熟悉哪些Linux指令？" style="text;strokeColor=#36393d;fillColor=#eeeeee;html=1;fontSize=40;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;dashed=1;dashPattern=1 4;strokeWidth=2;glass=0;shadow=1;rounded=1;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-3" value="熟悉哪些Linux指令？" style="text;strokeColor=#36393d;fillColor=#eeeeee;html=1;fontSize=40;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;dashed=1;dashPattern=1 4;strokeWidth=2;glass=0;shadow=1;rounded=1;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="912.1500000000001" y="162" width="816.22" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-4" value="" style="line;strokeWidth=5;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-4" value="" style="line;strokeWidth=5;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;" parent="1" vertex="1">
           <mxGeometry x="-356" y="100" width="3485.63" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-6" value="" style="line;strokeWidth=5;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-6" value="" style="line;strokeWidth=5;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;" parent="1" vertex="1">
           <mxGeometry x="-356" y="1090" width="3485.63" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-7" value="&lt;h2 class=&quot;text-xl font-semibold text-neutral-800&quot; style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); margin: 0px; line-height: 1.75rem; color: rgb(38, 38, 38);&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;主机 / 母机 [windows]&lt;/font&gt;&lt;/h2&gt;" style="text;strokeColor=#36393d;fillColor=#cce5ff;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;strokeWidth=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-7" value="&lt;h2 class=&quot;text-xl font-semibold text-neutral-800&quot; style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); margin: 0px; line-height: 1.75rem; color: rgb(38, 38, 38);&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;主机 / 母机 [windows]&lt;/font&gt;&lt;/h2&gt;" style="text;strokeColor=#36393d;fillColor=#cce5ff;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;strokeWidth=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="682" y="1229" width="1194" height="586" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-8" value="" style="text;strokeColor=#5C2A28;fillColor=#f8cecc;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-8" value="" style="text;strokeColor=#5C2A28;fillColor=#f8cecc;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="754" y="1312" width="839" height="467" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-10" value="VM 虚拟机软件" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-10" value="VM 虚拟机软件" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="778" y="1328" width="202" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-12" value="" style="text;strokeColor=#435C34;fillColor=#d5e8d4;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-12" value="" style="text;strokeColor=#435C34;fillColor=#d5e8d4;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="825" y="1402" width="670" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-13" value="Centos 7.6 (Linux) 虚拟系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-13" value="Centos 7.6 (Linux) 虚拟系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="858" y="1427" width="380" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-14" value="" style="text;strokeColor=#435C34;fillColor=#d5e8d4;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-14" value="" style="text;strokeColor=#435C34;fillColor=#d5e8d4;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="825" y="1530" width="670" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-15" value="Centos 8.1 (Linux) 虚拟系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-15" value="Centos 8.1 (Linux) 虚拟系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="858" y="1555" width="380" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-16" value="" style="text;strokeColor=#435C34;fillColor=#d5e8d4;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-16" value="" style="text;strokeColor=#435C34;fillColor=#d5e8d4;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="825" y="1653" width="670" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-17" value="Ubuntu (Linux) 虚拟系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-17" value="Ubuntu (Linux) 虚拟系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="858" y="1678" width="334" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-18" value="Cyan_RA9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=25;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-18" value="Cyan_RA9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=25;" parent="1" vertex="1">
           <mxGeometry x="1116" y="1415" width="168.36" height="45.09" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-19" value="Cyan_RA9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=25;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-19" value="Cyan_RA9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=25;" parent="1" vertex="1">
           <mxGeometry x="842.9967114288502" y="1554.9991849704172" width="168.36" height="45.09" as="geometry" />
         </mxCell>
-        <mxCell id="tMyT0u_dLEhwUZT0ckON-20" value="Cyan_RA9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=25;" vertex="1" parent="1">
+        <mxCell id="tMyT0u_dLEhwUZT0ckON-20" value="Cyan_RA9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=25;" parent="1" vertex="1">
           <mxGeometry x="1342.99671142885" y="1733.9091849704173" width="168.36" height="45.09" as="geometry" />
+        </mxCell>
+        <mxCell id="gFAWC0pax3d6yRB2swBA-1" value="熟悉哪些Linux指令？" style="text;strokeColor=#36393d;fillColor=#eeeeee;html=1;fontSize=40;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;dashed=1;dashPattern=1 4;strokeWidth=2;glass=0;shadow=1;rounded=1;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="912.1500000000001" y="-1068" width="816.22" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="gFAWC0pax3d6yRB2swBA-2" value="" style="line;strokeWidth=5;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;" vertex="1" parent="1">
+          <mxGeometry x="-356" y="-1130" width="3485.63" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
