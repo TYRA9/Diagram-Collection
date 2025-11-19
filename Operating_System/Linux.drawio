@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="28.2.5">
   <diagram id="FZmaDcgwMKFvUvN4vvBs" name="第 1 页">
-    <mxGraphModel dx="3226" dy="5506" grid="0" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2352" dy="6886" grid="0" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,7 +325,88 @@
           <mxGeometry x="1733.999283766736" y="-758.9998155669507" width="150.36" height="35.09" as="geometry" />
         </mxCell>
         <mxCell id="uwgKSP3cqsHOC_CGRlai-1" value="Linux CentOS 7.6&lt;div&gt;Courses Notes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;labelBackgroundColor=#ffffff;fontSize=42;fontStyle=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="289" y="-3800" width="1577" height="248" as="geometry" />
+          <mxGeometry x="279.56" y="-5681" width="1577" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="uwgKSP3cqsHOC_CGRlai-6" target="uwgKSP3cqsHOC_CGRlai-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-8" value="输入 vim xxx" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;fontStyle=1" vertex="1" connectable="0" parent="uwgKSP3cqsHOC_CGRlai-7">
+          <mxGeometry x="-0.1045" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-6" value="在Linux命令行下&lt;div&gt;(eg: Xshell)&lt;/div&gt;" style="text;html=1;fontSize=34;fontStyle=1;verticalAlign=middle;align=center;rounded=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-5272" width="276" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.334;entryY=0;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;strokeWidth=1;entryPerimeter=0;" edge="1" parent="1" source="uwgKSP3cqsHOC_CGRlai-5" target="uwgKSP3cqsHOC_CGRlai-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="939" y="-5076" as="sourcePoint" />
+            <mxPoint x="989" y="-5126" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;strokeWidth=1;flowAnimation=0;" edge="1" parent="1" source="uwgKSP3cqsHOC_CGRlai-9" target="uwgKSP3cqsHOC_CGRlai-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="985" y="-4871" as="sourcePoint" />
+            <mxPoint x="1281" y="-5157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-5" value="普通模式" style="text;strokeColor=#82b366;fillColor=#d5e8d4;html=1;fontSize=34;fontStyle=1;verticalAlign=middle;align=center;rounded=1;strokeWidth=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="976.44" y="-5250" width="177.2" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-9" value="插入模式" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;fontSize=34;fontStyle=1;verticalAlign=middle;align=center;rounded=1;strokeWidth=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="581.8" y="-4902" width="177.2" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="uwgKSP3cqsHOC_CGRlai-10" target="uwgKSP3cqsHOC_CGRlai-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1435" y="-4773" />
+              <mxPoint x="1435" y="-4773" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-22" value="输入:wq 或者 :q 或者 :q!" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontStyle=1" vertex="1" connectable="0" parent="uwgKSP3cqsHOC_CGRlai-21">
+          <mxGeometry x="-0.0468" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-10" value="命令行模式" style="text;strokeColor=#b85450;fillColor=#f8cecc;html=1;fontSize=34;fontStyle=1;verticalAlign=middle;align=center;rounded=1;strokeWidth=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1337" y="-4902" width="196.41" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-13" value="输入 i 或者 a 等" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;strokeColor=none;rotation=317;" vertex="1" parent="1">
+          <mxGeometry x="703" y="-5096" width="186" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-14" value="ESC" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;strokeColor=none;rotation=316;" vertex="1" parent="1">
+          <mxGeometry x="802.9971104702156" y="-5057.99931534088" width="186" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.324;exitY=-0.02;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;strokeWidth=1;flowAnimation=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="uwgKSP3cqsHOC_CGRlai-10" target="uwgKSP3cqsHOC_CGRlai-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1073" y="-4886" as="sourcePoint" />
+            <mxPoint x="1124" y="-5184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;strokeWidth=1;flowAnimation=0;entryX=0.659;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uwgKSP3cqsHOC_CGRlai-5" target="uwgKSP3cqsHOC_CGRlai-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1153.64" y="-5196" as="sourcePoint" />
+            <mxPoint x="1372.64" y="-4910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-17" value="输入 : 或者 /" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;strokeColor=none;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="1218.0038630917702" y="-5103.998432183424" width="186" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-18" value="ESC" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;strokeColor=none;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="1118.9971104702154" y="-5067.99931534088" width="186" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-20" value="退出vim" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;fontSize=34;fontStyle=1;verticalAlign=middle;align=center;rounded=1;strokeWidth=2;glass=0;arcSize=41;gradientColor=#ffd966;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1346.61" y="-4699" width="177.2" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-23" value="Cyan_RA9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=25;" vertex="1" parent="1">
+          <mxGeometry x="606.9999999999995" y="-4881" width="150.36" height="35.09" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-24" value="Cyan_RA9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=25;" vertex="1" parent="1">
+          <mxGeometry x="1235.819283766736" y="-5032.99981556695" width="150.36" height="35.09" as="geometry" />
+        </mxCell>
+        <mxCell id="uwgKSP3cqsHOC_CGRlai-25" value="Cyan_RA9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=25;" vertex="1" parent="1">
+          <mxGeometry x="409.99928376673597" y="-5236.549815566951" width="150.36" height="35.09" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
