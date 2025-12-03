@@ -6552,8 +6552,8 @@
         <mxCell id="BDop2kYS3srq9F-cal5D-688" edge="1" parent="1" source="BDop2kYS3srq9F-cal5D-689" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=31;fillColor=#cce5ff;strokeColor=#36393d;" target="BDop2kYS3srq9F-cal5D-691" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BDop2kYS3srq9F-cal5D-689" parent="1" style="text;strokeColor=#36393d;fillColor=#cce5ff;html=1;fontSize=31;fontStyle=1;verticalAlign=top;align=center;whiteSpace=wrap;" value="共享内存（零拷贝）" vertex="1">
-          <mxGeometry height="49" width="328.75" x="1013.52" y="37352" as="geometry" />
+        <mxCell id="BDop2kYS3srq9F-cal5D-689" parent="1" style="text;strokeColor=#36393d;fillColor=#cce5ff;html=1;fontSize=27;fontStyle=1;verticalAlign=top;align=center;whiteSpace=wrap;" value="仅注册时拷贝一次，等待时仅返回就绪事件" vertex="1">
+          <mxGeometry height="73" width="328.75" x="1013.52" y="37337" as="geometry" />
         </mxCell>
         <mxCell id="BDop2kYS3srq9F-cal5D-690" edge="1" parent="1" source="BDop2kYS3srq9F-cal5D-691" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=31;fillColor=#cce5ff;strokeColor=#36393d;" target="BDop2kYS3srq9F-cal5D-693" value="">
           <mxGeometry relative="1" as="geometry" />
