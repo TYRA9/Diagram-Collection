@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="29.1.1">
   <diagram id="FZmaDcgwMKFvUvN4vvBs" name="第 1 页">
-    <mxGraphModel dx="3585" dy="7255" grid="0" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3704" dy="7294" grid="0" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -405,8 +405,8 @@
         <mxCell id="uwgKSP3cqsHOC_CGRlai-25" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=25;" value="Cyan_RA9" vertex="1">
           <mxGeometry height="35.09" width="150.36" x="409.99928376673597" y="-5236.549815566951" as="geometry" />
         </mxCell>
-        <mxCell id="XN5n2XbvMBs6MY6HXDmJ-2" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Xmind中有新的流程图" vertex="1">
-          <mxGeometry height="58" width="327" x="1116" y="399" as="geometry" />
+        <mxCell id="XN5n2XbvMBs6MY6HXDmJ-2" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=34;fontStyle=1;verticalAlign=middle;align=center;" value="Xmind中有新的流程图" vertex="1">
+          <mxGeometry height="83" width="352" x="1091" y="374" as="geometry" />
         </mxCell>
         <mxCell id="XN5n2XbvMBs6MY6HXDmJ-3" parent="1" style="text;strokeColor=#36393d;fillColor=#ffff88;html=1;fontSize=33;fontStyle=1;verticalAlign=top;align=left;" value="&lt;h2 class=&quot;text-xl font-semibold text-neutral-800&quot; style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); font-size: 33px; margin: 0px; line-height: 1.75rem; color: rgb(38, 38, 38);&quot;&gt;权限说明：&lt;/h2&gt;&lt;div&gt;普通用户&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;可能无法查看&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;全部进程，需使用sudo权限。&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="128" width="462" x="1816.44" y="2780" as="geometry" />
