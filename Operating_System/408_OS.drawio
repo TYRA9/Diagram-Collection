@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" pages="2">
   <diagram id="05VSpFf4qt_FIo3CCPmS" name="第 1 页">
-    <mxGraphModel dx="4544" dy="9338" grid="0" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3960" dy="9427" grid="0" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6682,7 +6682,7 @@
           <mxGeometry height="52.43" width="586.78" x="-767.0020805576876" y="32814.001665178796" as="geometry" />
         </mxCell>
         <mxCell id="g_zwkQZPujXYQIjQNgcv-1" parent="1" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;rotation=90;" value="" vertex="1">
-          <mxGeometry height="1" width="1277.5" x="1801.25" y="2980.75" as="geometry" />
+          <mxGeometry height="1" width="1277.5" x="2376.7" y="2976" as="geometry" />
         </mxCell>
         <mxCell id="g_zwkQZPujXYQIjQNgcv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=45;glass=0;strokeWidth=4;shadow=0;fillColor=#e51400;strokeColor=#B20000;fontStyle=1;arcSize=20;fontColor=#ffffff;" value="死锁" vertex="1">
           <mxGeometry height="75" width="234.21" x="2013.04" y="2350" as="geometry" />
@@ -6740,11 +6740,8 @@
         <mxCell id="g_zwkQZPujXYQIjQNgcv-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeWidth=3;fillColor=#ffcccc;fontSize=75;align=center;fontStyle=0;shadow=1;labelBackgroundColor=none;sketch=0;strokeColor=#36393d;" value="P2" vertex="1">
           <mxGeometry height="139" width="139" x="2175.56" y="3141" as="geometry" />
         </mxCell>
-        <mxCell id="g_zwkQZPujXYQIjQNgcv-32" parent="1" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;rotation=90;" value="" vertex="1">
-          <mxGeometry height="1" width="1277.5" x="2460.6" y="2979.75" as="geometry" />
-        </mxCell>
         <mxCell id="g_zwkQZPujXYQIjQNgcv-33" parent="1" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;rotation=90;" value="" vertex="1">
-          <mxGeometry height="1" width="1277.5" x="3191" y="2981.75" as="geometry" />
+          <mxGeometry height="1" width="1277.5" x="4206" y="2977" as="geometry" />
         </mxCell>
         <mxCell id="g_zwkQZPujXYQIjQNgcv-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=45;glass=0;strokeWidth=4;shadow=0;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;arcSize=20;" value="破坏互斥条件" vertex="1">
           <mxGeometry height="75" width="345.32" x="1963.1200000000001" y="3024" as="geometry" />
@@ -6765,6 +6762,19 @@
         </mxCell>
         <mxCell id="j7_4jBc971vVp6tSF-qQ-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Flat_Actions-2817/Tick_Mark-1409.svg" value="" vertex="1">
           <mxGeometry height="76" width="76" x="2320.63" y="3414" as="geometry" />
+        </mxCell>
+        <mxCell id="4EBm_HvE4386LmDsgeyg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=45;glass=0;strokeWidth=4;shadow=0;fillColor=#e51400;strokeColor=#B20000;fontStyle=1;arcSize=20;fontColor=#ffffff;" value="死锁" vertex="1">
+          <mxGeometry height="75" width="234.21" x="3157" y="2350" as="geometry" />
+        </mxCell>
+        <mxCell id="4EBm_HvE4386LmDsgeyg-2" edge="1" parent="1" source="g_zwkQZPujXYQIjQNgcv-14" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="g_zwkQZPujXYQIjQNgcv-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="2572" y="2697" />
+              <mxPoint x="2572" y="3396" />
+            </Array>
+            <mxPoint x="2667" y="2696" as="sourcePoint" />
+            <mxPoint x="2717" y="2646" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
