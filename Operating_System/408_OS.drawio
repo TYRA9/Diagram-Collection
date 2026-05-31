@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" pages="2">
   <diagram id="05VSpFf4qt_FIo3CCPmS" name="第 1 页">
-    <mxGraphModel dx="4600" dy="9316" grid="0" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4591" dy="9556" grid="0" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="snNaqmaip-3PKeQkWMfy-23" parent="1" style="text;html=1;fontSize=35;fontStyle=1;verticalAlign=middle;align=center;strokeColor=default;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="snNaqmaip-3PKeQkWMfy-23" parent="1" style="text;html=1;fontSize=35;fontStyle=1;verticalAlign=middle;align=center;strokeColor=default;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="798" width="1126" x="2747" y="20986" as="geometry" />
         </mxCell>
-        <mxCell id="snNaqmaip-3PKeQkWMfy-14" parent="1" style="text;html=1;fontSize=35;fontStyle=1;verticalAlign=middle;align=center;strokeColor=default;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="794" width="1202.91" x="1501.09" y="20990" as="geometry" />
+        <mxCell id="snNaqmaip-3PKeQkWMfy-14" parent="1" style="text;html=1;fontSize=35;fontStyle=1;verticalAlign=middle;align=center;strokeColor=default;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="729" width="1202.91" x="1501.09" y="20990" as="geometry" />
         </mxCell>
         <mxCell id="jMf2lHeqtpyBjIRx9wo8-69" parent="1" style="text;html=1;fontSize=32;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=1;fillColor=#dae8fc;strokeColor=none;curveFitting=1;jiggle=2;strokeWidth=1;opacity=50;" value="" vertex="1">
           <mxGeometry height="1257" width="2479" x="1267" y="712" as="geometry" />
@@ -4979,13 +4979,13 @@
           <mxGeometry height="163" width="816.22" x="-11.929999999999902" y="2184" as="geometry" />
         </mxCell>
         <mxCell id="1jaF_Z--bqmehDntlYcv-24" parent="1" style="line;strokeWidth=5;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;" value="" vertex="1">
-          <mxGeometry height="10" width="3485.63" x="-1280.08" y="2122" as="geometry" />
+          <mxGeometry height="10" width="5508.08" x="-1280.08" y="2122" as="geometry" />
         </mxCell>
         <mxCell id="1jaF_Z--bqmehDntlYcv-25" parent="1" style="text;strokeColor=#36393d;fillColor=#eeeeee;html=1;fontSize=40;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;dashed=1;dashPattern=1 4;strokeWidth=2;glass=0;shadow=1;rounded=1;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" value="解释一下进程同步和互斥，&lt;div&gt;以及如何实现进程同步和互斥？&lt;/div&gt;" vertex="1">
           <mxGeometry height="163" width="816.22" x="28.150000000000098" y="468" as="geometry" />
         </mxCell>
         <mxCell id="1jaF_Z--bqmehDntlYcv-26" parent="1" style="line;strokeWidth=5;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;" value="" vertex="1">
-          <mxGeometry height="10" width="3485.63" x="-1240" y="406" as="geometry" />
+          <mxGeometry height="10" width="5427" x="-1240" y="406" as="geometry" />
         </mxCell>
         <mxCell id="f-8imLccRcDn-daIkZqJ-3" parent="1" style="text;strokeColor=#36393d;fillColor=#eeeeee;html=1;fontSize=40;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;dashed=1;dashPattern=1 4;strokeWidth=2;glass=0;shadow=1;rounded=1;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" value="进程 和 线程 的区别?" vertex="1">
           <mxGeometry height="163" width="816.22" x="-125.84999999999991" y="19622" as="geometry" />
@@ -6447,8 +6447,8 @@
         <mxCell id="snNaqmaip-3PKeQkWMfy-21" parent="1" style="text;html=1;fontSize=35;fontStyle=1;verticalAlign=middle;align=center;strokeColor=#49BCC9;fillColor=none;strokeWidth=7;" value="" vertex="1">
           <mxGeometry height="58" width="776" x="2750" y="21598" as="geometry" />
         </mxCell>
-        <mxCell id="snNaqmaip-3PKeQkWMfy-24" parent="1" style="text;html=1;fontSize=35;fontStyle=1;verticalAlign=middle;align=center;strokeColor=default;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="705" width="2376" x="1500" y="21802" as="geometry" />
+        <mxCell id="snNaqmaip-3PKeQkWMfy-24" parent="1" style="text;html=1;fontSize=35;fontStyle=1;verticalAlign=middle;align=center;strokeColor=default;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="705" width="2374" x="1500" y="21802" as="geometry" />
         </mxCell>
         <mxCell id="snNaqmaip-3PKeQkWMfy-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;glass=0;strokeWidth=3;shadow=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;arcSize=14;" value="" vertex="1">
           <mxGeometry height="639" width="596.15" x="1561.85" y="21838" as="geometry" />
@@ -6677,6 +6677,24 @@
         </mxCell>
         <mxCell id="Sy9Iczd4GL2YIEamMKYC-13" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=35;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;sketch=0;rotation=-15;textOpacity=20;opacity=50;" value="卡码笔记：notes.kamacoder.com" vertex="1">
           <mxGeometry height="52.43" width="586.78" x="-767.0020805576876" y="32814.001665178796" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKMW0eyq4oMLuC8aNM-1" parent="1" style="text;strokeColor=#b85450;html=1;fontSize=50;fontStyle=1;verticalAlign=middle;align=center;rounded=1;shadow=1;labelBackgroundColor=none;fillColor=#f8cecc;glass=0;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;" value="死锁预防 的四种途径：" vertex="1">
+          <mxGeometry height="123" width="2073.5" x="2101.25" y="2218" as="geometry" />
+        </mxCell>
+        <mxCell id="g_zwkQZPujXYQIjQNgcv-1" parent="1" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;rotation=90;" value="" vertex="1">
+          <mxGeometry height="1" width="1128" x="1876.0000000000002" y="2965" as="geometry" />
+        </mxCell>
+        <mxCell id="g_zwkQZPujXYQIjQNgcv-2" parent="1" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;rotation=90;" value="" vertex="1">
+          <mxGeometry height="1" width="1128" x="2522.5" y="2965" as="geometry" />
+        </mxCell>
+        <mxCell id="g_zwkQZPujXYQIjQNgcv-3" parent="1" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=1;fontSize=35;rotation=90;" value="" vertex="1">
+          <mxGeometry height="1" width="1128" x="3197.5" y="2965" as="geometry" />
+        </mxCell>
+        <mxCell id="g_zwkQZPujXYQIjQNgcv-4" parent="1" style="text;strokeColor=#36393d;html=1;fontSize=40;fontStyle=1;verticalAlign=middle;align=center;rounded=1;shadow=1;labelBackgroundColor=none;sketch=0;fillColor=#cdeb8b;" value="Resource 4" vertex="1">
+          <mxGeometry height="69" width="275.5" x="2036.39" y="3259" as="geometry" />
+        </mxCell>
+        <mxCell id="g_zwkQZPujXYQIjQNgcv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=45;glass=0;strokeWidth=4;shadow=0;fillColor=#e51400;strokeColor=#B20000;fontStyle=1;arcSize=20;fontColor=#ffffff;" value="死锁" vertex="1">
+          <mxGeometry height="75" width="168.07" x="1994" y="2436" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
