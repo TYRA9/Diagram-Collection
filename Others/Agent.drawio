@@ -8,7 +8,7 @@
           <mxGeometry height="210" width="1275" x="-225" y="-315" as="geometry" />
         </mxCell>
         <mxCell id="YVvWImAXbK274nGcG7hP-34" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="165" width="405" x="495" y="-285" as="geometry" />
+          <mxGeometry height="180" width="405" x="495" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="YVvWImAXbK274nGcG7hP-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="" vertex="1">
           <mxGeometry height="555" width="1440" x="-330" y="45" as="geometry" />
@@ -111,6 +111,15 @@
         </mxCell>
         <mxCell id="YVvWImAXbK274nGcG7hP-35" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;JChatMind&lt;/h1&gt;" vertex="1">
           <mxGeometry height="60" width="135" x="-210" y="-405" as="geometry" />
+        </mxCell>
+        <mxCell id="YVvWImAXbK274nGcG7hP-36" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;通义灵码&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="45" width="100" x="645" y="-285" as="geometry" />
+        </mxCell>
+        <mxCell id="YVvWImAXbK274nGcG7hP-37" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;浏览器 Web 端&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="67.5" width="120" x="45" y="-292.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YVvWImAXbK274nGcG7hP-38" edge="1" parent="1" source="YVvWImAXbK274nGcG7hP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.239;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" target="YVvWImAXbK274nGcG7hP-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
