@@ -94,7 +94,7 @@
         <mxCell id="YVvWImAXbK274nGcG7hP-26" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;OpenClaw&lt;/h1&gt;" vertex="1">
           <mxGeometry height="60" width="145" x="335" y="-210" as="geometry" />
         </mxCell>
-        <mxCell id="YVvWImAXbK274nGcG7hP-27" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Trae&lt;/h1&gt;" vertex="1">
+        <mxCell id="YVvWImAXbK274nGcG7hP-27" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Trae / Coze&lt;/h1&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="515" y="-210" as="geometry" />
         </mxCell>
         <mxCell id="YVvWImAXbK274nGcG7hP-29" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Qoder&lt;/h1&gt;" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="YVvWImAXbK274nGcG7hP-32" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Agent 产品&lt;/h1&gt;" vertex="1">
           <mxGeometry height="60" width="135" x="-210" y="-300" as="geometry" />
         </mxCell>
-        <mxCell id="YVvWImAXbK274nGcG7hP-33" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;豆包&lt;/h1&gt;" vertex="1">
+        <mxCell id="YVvWImAXbK274nGcG7hP-33" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;豆包&lt;br&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="915" y="-210" as="geometry" />
         </mxCell>
         <mxCell id="YVvWImAXbK274nGcG7hP-35" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;JChatMind&lt;/h1&gt;" vertex="1">
