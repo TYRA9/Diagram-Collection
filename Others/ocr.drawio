@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-11" parent="1" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=0;fontSize=35;dashed=1;dashPattern=1 1;" value="" vertex="1">
+          <mxGeometry height="10" width="1104" x="-116.5" y="1010" as="geometry" />
+        </mxCell>
         <mxCell id="Z4-GhRD6wy9IA_wGS9EK-9" parent="1" style="text;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;strokeColor=#000000;dashed=1;opacity=50;rotation=-90;dashPattern=12 12;" value="" vertex="1">
           <mxGeometry height="885.5" width="194" x="225.75" y="-176.25" as="geometry" />
         </mxCell>
@@ -134,6 +137,107 @@
         </mxCell>
         <mxCell id="Z4-GhRD6wy9IA_wGS9EK-50" parent="1" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;rotation=0;dashed=1;gradientColor=#7ea6e0;" value="支撑" vertex="1">
           <mxGeometry height="27" width="60" x="801" y="592.64" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;陶行知文集整理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82" width="114" x="-32.5" y="882" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-2" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.straightBus;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="113" width="33" x="126" y="866.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=0;shadow=1;align=left;verticalAlign=top;" value="&lt;div style=&quot;&quot;&gt;采用 &lt;b&gt;Paddle-OCR&lt;/b&gt; 进行 &lt;b&gt;ocr &lt;/b&gt;处理&lt;/div&gt;" vertex="1">
+          <mxGeometry height="122" width="387" x="203" y="862" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;内置 PP-StructureV3&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59" width="276" x="258.5" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-9" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.straightBus;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="111.25" width="33" x="629.63" y="867.38" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;实现&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;版面分析、文字检测、文字识别等初步处理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75.5" width="299" x="703" y="885.26" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-12" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.straightBus;rotation=0;" value="" vertex="1">
+          <mxGeometry height="132" width="33" x="832" y="964" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;shadow=1;align=center;gradientColor=#7ea6e0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;1-数据采集&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="51" width="147" x="-227.5" y="897.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;输出 Markdown、Word、版式扫描结构图、原始JSON文件&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="103" width="285.5" x="707.75" y="1099" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e6d0de;strokeColor=#996185;fontStyle=1;shadow=1;align=center;gradientColor=#d5739d;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;2-核心处理层&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="51" width="158" x="-233" y="1125" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-16" parent="1" style="text;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;strokeColor=#000000;dashed=1;opacity=50;rotation=-90;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="323.07" width="248.88" x="-28.939999999999998" y="998" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;&lt;b&gt;Detector&lt;/b&gt;：识别异常&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="232" x="-14.099999999999994" y="1052.28" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;&lt;b&gt;Reflector&lt;/b&gt;：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;结合先验知识库逻辑比对&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="301.5" x="-57" y="1213.71" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;修正建议生成&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="150" x="-44" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-21" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Regular_Vol_1-2945/arrow-arc-right-753.svg;rotation=105;" value="" vertex="1">
+          <mxGeometry height="112.11" width="112.11" x="89.15" y="1107.28" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-22" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Regular_Vol_1-2945/arrow-arc-right-753.svg;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="119" width="119" x="4.3700000000000045" y="1103.83" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-24" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.straightBus;rotation=-90;direction=west;" value="" vertex="1">
+          <mxGeometry height="69" width="33" x="656" y="1116" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=1;align=center;gradientColor=#97d077;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;3-应用层&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="51" width="124" x="-227.5" y="1362" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-27" parent="1" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;shadow=0;fontSize=35;dashed=1;dashPattern=1 1;" value="" vertex="1">
+          <mxGeometry height="10" width="1104" x="-116.5" y="1295" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-32" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.straightBus;rotation=-90;direction=west;" value="" vertex="1">
+          <mxGeometry height="69" width="33" x="252.9" y="1117.71" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;&lt;b&gt;Loop&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="90" x="302.9" y="1114.71" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;输出 自动化审校报告（.docx）、逻辑重组后的纯净文本。&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="121" width="221" x="255" y="1327" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-34" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.straightBus;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="85" width="33" x="503.5" y="1345" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-36" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.straightBus;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="85" width="33" x="753" y="1345" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-43" edge="1" parent="1" source="NXiW-jaoE8-qlJG68gnz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeColor=#3333FF;strokeWidth=4;" target="NXiW-jaoE8-qlJG68gnz-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="891" y="1281" />
+              <mxPoint x="348" y="1281" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;评价指标（准确率/召回率）&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="87" width="164.53" x="811.99" y="1344" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;人工抽样核验&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="87" width="164.53" x="562.49" y="1344" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-39" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.straightBus;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="145" width="33" x="165" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-40" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.straightBus;rotation=-90;direction=west;" value="" vertex="1">
+          <mxGeometry height="69" width="33" x="413" y="1117.71" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=0;shadow=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, PingFang SC, Microsoft YaHei, Arial, sans-serif&quot;&gt;&lt;b&gt;本地 GPU 服务器 (8x 5880 Ada) + Ollama，部署Qwen3.5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="207" width="169.37" x="467" y="1047" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-42" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.straightBus;rotation=0;" value="" vertex="1">
+          <mxGeometry height="75" width="33" x="27" y="1286" as="geometry" />
+        </mxCell>
+        <mxCell id="NXiW-jaoE8-qlJG68gnz-44" parent="1" style="text;strokeColor=#b85450;fillColor=#f8cecc;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;rotation=0;gradientColor=#ea6b66;rounded=1;" value="闭环" vertex="1">
+          <mxGeometry height="38.29" width="69" x="672" y="1237.42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
